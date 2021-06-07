@@ -4,7 +4,7 @@ This repository contains JAX code for the paper
 
 **Control-Oriented Model-Based Reinforcement Learning with Implicit Differentiation**
 
-by Evgenii Nikishin, Romina Abachi, Rishabh Agarwal, and Pierre-Luc Bacon.
+by [Evgenii Nikishin](http://evgenii-nikishin.github.io/), [Romina Abachi](https://ca.linkedin.com/in/romina-abachi-44915bbb), [Rishabh Agarwal](https://agarwl.github.io/), and [Pierre-Luc Bacon](http://pierrelucbacon.com/).
 
 
 # Summary
