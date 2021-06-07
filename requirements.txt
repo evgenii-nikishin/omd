@@ -1,0 +1,22 @@
+pip==21.0.1
+numpy==1.20.2
+scipy==1.6.0
+absl-py==0.12.0
+gym==0.18.0
+# 'mujoco-py<2.1,>=2.0'
+gdown
+termcolor
+tqdm==4.60.0
+flax==0.3.3
+jax==0.2.9
+jaxlib==0.1.59
+# jaxlib for CUDA
+ml_collections==0.1.0
+optax==0.0.6
+tensorboardX==2.2
+tensorboard==2.5.0
+distrax==0.0.1
+imageio==2.9.0
+imageio-ffmpeg==0.4.3
+git+https://github.com/gehring/fax.git
+git+https://github.com/deepmind/dm-haiku.git
