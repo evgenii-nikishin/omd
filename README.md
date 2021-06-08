@@ -41,6 +41,8 @@ For historical reasons, the code is divided into 3 parts.
 
 All results for the tabular experiments could be reproduced by running the `tabular.ipynb` notebook.
 
+To open the notebook in Google Colab, use [this link](https://colab.research.google.com/github/evgenii-nikishin/omd/blob/main/tabular.ipynb).
+
 ## CartPole
 
 To train the OMD agent on CartPole, use the following commands:
