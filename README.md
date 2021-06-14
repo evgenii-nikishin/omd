@@ -18,6 +18,15 @@ OMD leverages the implicit function theorem to optimize the model parameters and
   <img src="https://user-images.githubusercontent.com/14283069/120944292-bde92500-c701-11eb-9695-17378d26440f.png" width=500>
 </p>
 
+Please cite our work if you find it useful in your research:
+```latex
+@article{nikishin2021control,
+  title={Control-Oriented Model-Based Reinforcement Learning with Implicit Differentiation},
+  author={Nikishin, Evgenii and Abachi, Romina and Agarwal, Rishabh and Bacon, Pierre-Luc},
+  journal={arXiv preprint arXiv:2106.03273},
+  year={2021}
+}
+```
 
 # Installation
 
